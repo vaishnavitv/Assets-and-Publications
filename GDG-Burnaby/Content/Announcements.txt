@@ -1,6 +1,0 @@
-I am an organizer of GDG Burnaby. Our CFP is open and could you apply and/or share with your community
-CFP page : https://sessionize.com/devfest-2023-burnaby/
-Community Page : https://gdg.community.dev/gdg-burnaby/
-LI : https://www.linkedin.com/company/gdgburnaby
-Slack channel is https://gdg-burnaby.slack.com
-Feel free to check all my earlier talks and work I do on my GitHub page https://github.com/vaishnavitv/
