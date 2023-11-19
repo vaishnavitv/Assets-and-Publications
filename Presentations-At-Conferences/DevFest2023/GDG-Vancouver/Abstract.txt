@@ -1,0 +1,21 @@
+Vaishnavi Venkata Subramanian
+Designing for Neurodiversity, Empathy, Human Centric Design and Inclusion in Software Applications
+Software Engineering has developed an underlying culture of blame. When code breaks, the first command engineers trigger is "Git Blame" to spot the person who committed the offending line of code. Empathy is lost, and judgment kicks in.
+
+Neurodiversity focuses on non-quantifiable aspects of our being, like how we perceive our environment and the triggers or sensory issues we experience. By not considering neurodiverse users, we risk marginalization and only cater to the central, normal values as peak users (neurotypical) in the Gaussian(bell) curve.
+
+By focusing on the inclusive design principle, the slogan "Nothing about us without us" communicates the idea that no policy should be decided by any representative without the full and direct participation of members of the group(s) affected by that policy and the African proverb "If you want to go fast, go alone . If you want to go far, go together" we create an inclusive software which includes all users.
+
+This concept works similarly to the curb-cut effect, wherein when you design for disabilities, you make things better for everyone.
+
+In an age where the majority is an expert on products or services, how can we keep our equilibrium as engineers and community mentors? Join me as I show several ways to support our communities, keep our integrity as technologists, and calm our users by keeping it minimalistic, barebones, and decluttered, thereby keeping the application simpler, more transparent, and less distracted.
+
+Practicing neuro-inclusive design results in applications accessible to various cognitive and sensory styles. Some of the guidelines include
+
+Aim to visually please, rather than disturb.
+Abstain from auto play and music that suddenly appears out of nowhere.
+Skip highly vibrant colors.
+
+They are often the first to sense danger akin to canaries in the coal mine, thereby preventing miscommunication and not overwhelming the users.
+
+Implementing empathetic and inclusive design for neurodiverse users brings mindfulness and serenity to software applications, thereby increasing product retention and revenue.
