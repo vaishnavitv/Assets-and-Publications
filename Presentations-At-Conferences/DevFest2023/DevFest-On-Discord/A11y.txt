@@ -1,2 +1,4 @@
 A11y
 https://developers.google.com/style/accessibility
+
+Accessibility Matters: Ensure your content is accessible to everyone. Use alt text for images, provide transcripts for videos, and make your software user-friendly for all abilities.
