@@ -2,3 +2,25 @@ A11y
 https://developers.google.com/style/accessibility
 
 Accessibility Matters: Ensure your content is accessible to everyone. Use alt text for images, provide transcripts for videos, and make your software user-friendly for all abilities.
+
+https://apcoworldwide.com/blog/understanding-the-permanent-temporary-and-situational-barriers-to-accessibility-in-ux-design/
+
+https://developers.google.com/style/inclusive-documentation
+
+https://contentdesign.intuit.com/accessibility-and-inclusion/anti-racist-language/
+
+https://developers.google.com/style/word-list
+
+https://arthalearning.com/accessible-and-inclusive-language-in-elearning/
+
+Weasel words
+
+https://www.mtu.edu/accessibility/training/documents/
+Michigan Tech 
+
+Color as Context
+Never rely exclusively on color to provide information, make a comparison, or to illicit a response. Blind or color blind users will likely not be able to use this information. Although color can be used in your documents you should also use text-based methods to convey information, instead of relying solely on color.
+
+
+Grackle Docs Accessibility Checker for Google Documents
+https://www.mtu.edu/accessibility/training/documents/google-docs/
