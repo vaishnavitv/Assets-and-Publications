@@ -34,3 +34,7 @@ There’s a popular saying that goes: “an API is only as good as its documenta
 
 Mind who you’re writing for. Don’t forget that you’re writing API documentation for humans, not machines, so make it easy and enjoyable to work with;
 
+SCULPT Framework – Structure (use headings and styles), Colour and contrast, Use of images, Links, Plain English, and Tables.
+
+https://twitter.com/abbott567
+
