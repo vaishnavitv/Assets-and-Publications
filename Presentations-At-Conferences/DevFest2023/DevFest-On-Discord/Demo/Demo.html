@@ -37,7 +37,10 @@
   <button type="submit">Submit</button>
 </form>
 
-
+<div id="live-region" aria-live="polite">
+  Initial content.
+</div>
+<button onclick="updateLiveRegion()">Update Live Region</button>
 
 <h1 role="heading" aria-level="1" >This is a heading</h1>
 <h2 role="heading" aria-level="2" >This is a heading</h2>
@@ -47,8 +50,15 @@
 <h6 role="heading" aria-level="6" >This is a heading</h6>
 
 <div class="decorative" aria-hidden="true">
-  <img src="pic_trulli.jpg" alt="">
+  <img src="DALL-E.png" alt="DALL-E">
 </div>
 
+<script>
+  function updateLiveRegion() {
+  var liveRegion = document.getElementById("live-region");
+  var newContent = "New content added at " + new Date().toLocaleTimeString();
+  liveRegion.innerHTML = newContent;
+}
+</script>
 </body>
 </html>
