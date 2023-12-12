@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>DevFest on Discord</h2>
+<p> Discord Rocks!</p>
+<img src="DALL-E.png" alt="DALL.E"  width="500" height="333" />
+<h3>Menu Items</h3>
+<ul role="menu" aria-orientation="horizontal">
+  <li role="menuitem"><a href="#">Menu Item 1</a></li>
+  <li role="menuitem"><a href="#">Menu Item 2</a></li>
+  <li role="menuitem"><a href="#">Menu Item 3</a></li>
+</ul>
+<!-- Using aria-checked with a checkbox -->
+<input type="checkbox" id="example-checkbox" aria-checked="false" />
+
+<button href="https://www.google.com" role="link">Link Text</button>
+<div role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="50">50%</div>
+
+<div role="radiogroup">
+  <label><input type="radio" name="option" role="radio" aria-checked="true"> Option 1</label>
+  <label><input type="radio" name="option" role="radio"> Option 2</label>
+  <label><input type="radio" name="option" role="radio"> Option 3</label>
+</div>
+
+<div aria-label="Top Tweets on" role="button" data-focusable="true" tabindex="0"> div elements aren’t focusable by default</div>
+
+<button aria-label="Search" type="submit">Search</button>
+
+<!-- Using aria-expanded with a collapsible section -->
+<button id="example-button" aria-expanded="false" aria-controls="example-section">Expand</button>
+<section id="example-section" aria-hidden="true">Collapsible content</section>
+
+<form role="search">
+  <label for="search">Search:</label>
+  <input type="text" id="search" name="search" aria-label="Search">
+  <button type="submit">Submit</button>
+</form>
+
+
+
+<h1 role="heading" aria-level="1" >This is a heading</h1>
+<h2 role="heading" aria-level="2" >This is a heading</h2>
+<h3 role="heading" aria-level="3" >This is a heading</h3>
+<h4 role="heading" aria-level="4" >This is a heading</h4>
+<h5 role="heading" aria-level="5" >This is a heading</h5>
+<h6 role="heading" aria-level="6" >This is a heading</h6>
+
+<div class="decorative" aria-hidden="true">
+  <img src="pic_trulli.jpg" alt="">
+</div>
+
+</body>
+</html>
