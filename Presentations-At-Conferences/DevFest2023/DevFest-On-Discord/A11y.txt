@@ -38,3 +38,7 @@ SCULPT Framework – Structure (use headings and styles), Colour and contrast, U
 
 https://twitter.com/abbott567
 
+https://www.npmjs.com/package/html-validator
+
+
+https://blog.mcchristie.com/empathy-in-accessibility/
