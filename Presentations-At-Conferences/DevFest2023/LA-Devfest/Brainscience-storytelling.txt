@@ -1,9 +1,0 @@
-A great technique in storytelling is to show rather than tell to your audience what a character may be feeling or experiencing. By telling, you simply inform the reader, presenting them with factual statements, while by showing, a more intimate connection is being created. A mental model of the scene and the emotions that the characters are feeling, instead of simply stating information.
-
-“Don’t tell me the moon is shining. Show me the glint of light on broken glass.”
-― Anton Checkhov
-
-In programming, there is a similar principle that is known as Tell, Don’t Ask that aims to control coupling between classes. As a good storyteller is expected to show to the audience instead of directing telling them information, a software developer can also tell (command) its objects to behave as expected instead of querying them for their internal state.
-
-“Programs must be written for people to read, and only incidentally for machines to execute” (SICP)
-

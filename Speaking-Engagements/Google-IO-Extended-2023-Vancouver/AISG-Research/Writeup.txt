@@ -1,0 +1,45 @@
+AI startups for social good can have a wide range of applications across various industries and sectors. Here are some areas where you can use an AI startup to create positive social impact:
+
+Healthcare: Develop AI-powered solutions to improve healthcare access, diagnosis, treatment, and patient care. This can include applications such as early disease detection, personalized medicine, telemedicine, health monitoring, and drug discovery.
+
+Education: Utilize AI to enhance access to quality education, personalized learning, and educational support. Develop intelligent tutoring systems, adaptive learning platforms, and educational content recommendation engines to cater to individual learning needs and bridge educational gaps.
+
+Environmental Sustainability: Use AI to address environmental challenges and promote sustainable practices. Develop solutions for energy optimization, waste management, pollution monitoring, climate modeling, precision agriculture, and conservation efforts.
+
+Social Services: Leverage AI to improve social services and support systems for vulnerable populations. This can involve applications like AI-powered chatbots for mental health support, predictive analytics for child welfare, AI-driven job matching platforms for disadvantaged communities, and tools for social impact measurement.
+
+Humanitarian Aid and Disaster Response: Develop AI technologies to enhance humanitarian efforts during emergencies and disaster situations. This can include applications like AI-based disaster prediction and early warning systems, optimization of resource allocation, and assistance in relief operations.
+
+Financial Inclusion: Use AI to promote financial inclusion by developing innovative solutions for underserved populations. This can involve AI-driven microfinance platforms, credit scoring models for individuals without traditional credit history, and AI-powered fraud detection systems.
+
+Accessibility: Create AI-powered solutions to improve accessibility for individuals with disabilities. Develop technologies such as speech recognition, natural language processing, and computer vision to enable communication, assistive devices, and accessibility tools for people with visual, hearing, or mobility impairments.
+
+Civic Engagement and Governance: Utilize AI to enhance citizen participation, transparency, and accountability in governance. Develop applications like AI-driven data analytics for policy-making, chatbots for citizen engagement and information dissemination, and tools for detecting and combating corruption.
+
+Remember, these are just a few examples, and the potential applications of AI for social good are vast. It's important to identify specific social problems within these areas and tailor your AI solutions to address them effectively.
+
+
+https://www.linkedin.com/pulse/why-ai-flourishing-now-ajay-shrivastava/
+
+Machine Learning : Machine Learning is an art of study of algorithms and learning from examples and experience. ML enables us to make predictions based on existing patterns in the data.
+
+Deep Learning : Deep learning uses neural network that comprises of different layers to learn from data. Neural Network is an architecture where the layers are stacked on top of each other.
+
+
+In 2015, the United Nations General Assembly announced a collection of 17 interlinked global goals, called the Sustainable Development Goals.
+
+The Sustainable Development Goals, or the SDGs, are designed to be a “blueprint to achieve a better and more sustainable future for all” by 2030 (un.org).
+
+These global goals encompass the majority of the world’s most pressing problems, including climate change, poverty, and access to clean water.
+
+https://www.inspiritscholars.com/blog/ai-for-social-good-projects/
+
+AI for social good project track, including:
+
+AI + Healthcare: With computer vision, diagnosing patients based on medical scans such as X-rays.
+AI + Sustainability: Using AI to efficiently place energy creating sources (wind, solar, gas) across a country to maximize coverage.
+AI + Mobility: Applying AI to create a safe and synchronized auto pilot system for cars.
+AI + Ethics: Leveraging machine learning to predict returns of portfolios and create optimal combinations of assets.
+
+
+In terms of the holistic impact of AI, a study by Nature in 2020 estimated that AI could help achieve 79% of the Sustainable Development Goals.
