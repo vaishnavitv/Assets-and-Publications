@@ -42,3 +42,6 @@ https://www.npmjs.com/package/html-validator
 
 
 https://blog.mcchristie.com/empathy-in-accessibility/
+
+Accessibility is not an extra step. It's the steps many MISSED.
+https://www.linkedin.com/posts/debraruh_wearebillionstrong-axschat-a11y-activity-7156260571103789056-Xce1?utm_source=share&utm_medium=member_desktop
