@@ -1,0 +1,21 @@
+Talk-driven development : Teaching can be a superpower in software engineering
+
+"Talk-driven development" informally means committing to speaking on a particular topic can lead to a developer learning something new in the process of experimenting with new technologies in preparation for a presentation.  
+
+“To teach is to learn twice.” — Joseph Joubert
+
+Teaching brings superpowers that span beyond software development.  Numerous studies have shown a psychological phenomena, known as the Protégé Effect, in which learners who teach or prepare to teach others gain a deeper understanding of the material in the process.
+
+
+ The objective of teaching as a learning strategy is that regardless of where someone is in their learning process, they can benefit from teaching others by publicly documenting some of their learnings and taking a documentation-driven approach to accelerating their learning and growth. A key component of documentation-driven growth is taking advantage of the protégé effect by learning in anticipation that you will be sharing some of your learnings and decisions with others.
+
+
+
+
+"Engaging in 'Talk-Driven Development' involves dedicating oneself to articulating thoughts on a specific subject, a practice that often leads developers to discover new insights while delving into the realms of cutting-edge technologies in anticipation of a presentation.
+
+Beyond its immediate relevance to software development, teaching possesses transformative powers that extend into various domains. Extensive research supports the existence of the Protégé Effect, a psychological phenomenon wherein individuals who teach or prepare to teach others attain a profound understanding of the material at hand.
+
+Consistently sharing insights with a community not only fosters personal growth but also deepens one's technical expertise. Simultaneously, it hones communication skills, enabling the effective elucidation of novel concepts to others.
+
+In my public sharing endeavors, I aim to spotlight those 'aha' moments or lightbulb realizations where the knowledge gained becomes something I fervently wish I had known earlier."
