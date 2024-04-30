@@ -45,3 +45,12 @@ https://blog.mcchristie.com/empathy-in-accessibility/
 
 Accessibility is not an extra step. It's the steps many MISSED.
 https://www.linkedin.com/posts/debraruh_wearebillionstrong-axschat-a11y-activity-7156260571103789056-Xce1?utm_source=share&utm_medium=member_desktop
+
+
+Using image descriptions (sometimes called “alt text”) helps make sure that everyone can extract meaning from the images in your README file. People with low vision who use a screenreader access the image description to understand the context of the image that is displayed.
+
+Think of alt text like a tweet: be succinct, concise and descriptive.
+
+https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible/
+
+
