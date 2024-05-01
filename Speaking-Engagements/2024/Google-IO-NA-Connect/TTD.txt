@@ -26,3 +26,12 @@ How to Increase Your Luck Surface Area
 
 
 The protégé effect is a concept in learning that suggests we learn more effectively by teaching information to others, even if those others aren’t necessarily any less knowledgeable. As author Robert Heinlein puts it, ‘when one teaches, two learn’.
+
+
+The law of averages refers the common belief that the relative frequency of an event should correspond to its probability. For example, if the probability of heads in a fair coin toss is 50%, then according to the law of averages, the proportion of heads in a series of tosses should be close to 50%.
+
+
+Jason Roberts : https://twitter.com/exojason?lang=en
+Coder, entrepreneur, and podcaster 
+@techzing
+. Wrote a lot of the original real-time tech at http://uber.com. Coined "luck surface area". Founder of http://mathacademy.com.
