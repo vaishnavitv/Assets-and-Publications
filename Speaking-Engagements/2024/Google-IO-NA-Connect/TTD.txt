@@ -66,3 +66,5 @@ When we practice retrieving what we have previously learned by trying to recall 
 
 
 SODOTO (See One, Do One, Teach One) is a methodology of teaching and learning skills and best practices through direct observation of a task, hands-on practical experience performing the task and teaching the task to another person.
+
+Teaching isn’t just for the person receiving the lesson. It’s for you too
