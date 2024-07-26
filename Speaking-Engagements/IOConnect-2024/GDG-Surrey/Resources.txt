@@ -3,3 +3,6 @@ https://thenounproject.com/icons/
 
 Waysfinding Map
 
+Sankey
+https://sankeymatic.com/
+
