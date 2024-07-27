@@ -6,3 +6,5 @@ Waysfinding Map
 Sankey
 https://sankeymatic.com/
 
+PlantUML
+
