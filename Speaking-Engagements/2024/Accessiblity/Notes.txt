@@ -2,6 +2,7 @@ https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-access
 
 https://www.kewpie.com/en/sustainability/dietary-lifestyle/universal/
 
+
 Universal Design Foods (UDF) are food products that focus on being easy to eat and can be used for a wide range of purposes, such as for everyday meals or as nursing care foods. In 2002, the Japan Care Food Conference (with 88 affiliated companies as of December 2020) was established. Taking into consideration people's varying abilities to chew and swallow, it categorizes products into four levels based on softness and consistency so that consumers can easily differentiate them. Each of the categorized products are labeled with a Universal Design Foods logo.
 
 Nursery to Nursing
@@ -22,6 +23,9 @@ Accessibility is more than a ramp
 I entered "accessibility" in an image generator.
 
 It produced mostly wheelchair-related images.
+
+
+Source : https://www.linkedin.com/posts/meryl_merylmots-accessibility-inclusion-activity-7162437634085040128-Wgf-/
 
 Accessibility is more than wheelchairs, ramps, accessible parking, and accessible bathrooms.
 
