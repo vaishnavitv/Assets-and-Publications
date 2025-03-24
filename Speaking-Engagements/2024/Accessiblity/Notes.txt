@@ -14,6 +14,7 @@ As I’ve learnt more about service design, I’ve kept coming back to the snowy
 https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle
 
 https://stephaniewalter.design/blog/a-designers-guide-to-documenting-accessibility-user-interactions/
+https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle
 
 Amazon Ember is the universal brand font for all Amazon products and services. 
 
