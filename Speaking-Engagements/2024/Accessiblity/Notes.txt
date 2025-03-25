@@ -1,11 +1,22 @@
 Dr. Jean-luc Doumont
 https://principiae.be/pdfs/TM&Th-3.0-summary.pdf
 
+plotly visualization
+
+Pantone Pantone Matching System (PMS), a proprietary color space used in various industries, including graphic design, fashion design, product design, printing, and manufacturing.
+
+For 2025, Pantone's Color of the Year is "Mocha Mousse," a warm, soft brown hue with subtle chocolate and coffee undertones, designed to evoke feelings of comfort and grounded luxury. 
+
+What is a bevel shape?
+Guide to Bevel (Beveling) | Xometry
+A bevel is a sloped/angled surface following an edge. It is formed by cutting or grinding the material at an angle other than 90°. It involves removing material from the edge to create a gradual slope or chamfer. This process introduces a consistent face that blends the meeting of faces.
+
+
 https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible/
 
 https://www.kewpie.com/en/sustainability/dietary-lifestyle/universal/
 
-
+Orange blue for color blind
 Universal Design Foods (UDF) are food products that focus on being easy to eat and can be used for a wide range of purposes, such as for everyday meals or as nursing care foods. In 2002, the Japan Care Food Conference (with 88 affiliated companies as of December 2020) was established. Taking into consideration people's varying abilities to chew and swallow, it categorizes products into four levels based on softness and consistency so that consumers can easily differentiate them. Each of the categorized products are labeled with a Universal Design Foods logo.
 
 Nursery to Nursing
