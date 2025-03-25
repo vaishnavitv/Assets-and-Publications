@@ -16,6 +16,8 @@ https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle
 https://stephaniewalter.design/blog/a-designers-guide-to-documenting-accessibility-user-interactions/
 https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle
 
+https://www.youtube.com/watch?v=XD1_Gto82LI Data Visualization Best Practices - Kate Strachnyi at MDSCON2020
+
 Amazon Ember is the universal brand font for all Amazon products and services. 
 
 Accessibility is more than a ramp
