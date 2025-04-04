@@ -100,3 +100,9 @@ Accessibility is also ...
 - Closed captioning and subtitles
 - Adaptive clothing
 - Transcripts
+
+Localization : 
+https://beyo.global/thinking/great-examples-of-local-adaptations-by-pixar#:~:text=For%20international%20audiences%20though%2C%20the,more%20globally%20inclusive%20as%20well.
+https://www.yolocalizo.com/localization/2017/6/4/globalization-the-alter-ego-of-localization-you-have-a-great-opportunity-in-front-of-you
+https://www.oneskyapp.com/blog/globalization-vs-internationalization-vs-localization-difference/
+Feeling GILTy    https://mt-archive.net/00/LangInt-2002-Cadieux.pdf
