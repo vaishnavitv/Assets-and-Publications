@@ -1,0 +1,6 @@
+Prompt :1 
+ChatGpt4o
+Create an image with a cute women Matryoshka. Innermost doll is t9n, next level is l10n, after i18n, g11n as topmost. 
+All in linear fashion starting with innermost doll t9n on the left and g11n on the right, and a good 1 inch spacing between all the dolls. 
+Use text belowall  the dolls. Dont add text inside the doll. Keep all the dolls of different colors
+
